@@ -40,7 +40,7 @@ import pandas as pd
 
 from score_utils import score_predictions
 
-DEFAULT_NB = "notebooks/submission.ipynb"
+DEFAULT_NB = "Project-1/readmit30/notebooks/submission.ipynb"
 
 @dataclass
 class Submission:

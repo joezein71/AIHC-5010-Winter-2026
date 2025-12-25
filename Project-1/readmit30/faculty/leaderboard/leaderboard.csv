@@ -1,2 +1,2 @@
 team,submission,auroc,auprc,brier,n,timestamp,status,notes
-Team0,checking_workflow_003,,,,,2025-12-25T16:37:19+00:00,ERROR,Notebook not found: faculty_workdir/Team0/notebooks/submission.ipynb
+Team0,checking_workflow_004,,,,,2025-12-25T16:59:07+00:00,ERROR,"Command '['/Users/kline.timothy/PyEnv/tk-dev/bin/python', '-m', 'jupyter', 'nbconvert', '--to', 'notebook', '--execute', 'faculty_workdir/Team0/Project-1/readmit30/notebooks/submission.ipynb', '--ExecutePreprocessor.timeout=1200', '--output', 'faculty_workdir/Team0/executed.ipynb']' returned non-zer"
