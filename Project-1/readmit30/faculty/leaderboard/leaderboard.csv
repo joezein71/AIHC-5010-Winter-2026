@@ -1,5 +1,5 @@
 team,submission,auroc,auprc,brier,n,timestamp,status,notes
-TeamY,checking_workflow_009,0.5018144430649111,0.11053211437438304,0.11993066497215103,20449.0,2025-12-28T15:42:19+00:00,OK,
-TeamX,checking_workflow_006,0.5018144430649111,0.110532114374383,0.119930664972151,20449.0,2025-12-28T15:42:03+00:00,OK,
+TeamY,checking_workflow_009,0.5018144430649111,0.11053211437438304,0.11993066497215103,20449.0,2025-12-28T15:49:50+00:00,OK,
 Team1,checking_workflow_007,0.5018144430649111,0.110532114374383,0.119930664972151,20449.0,2025-12-25T19:42:07+00:00,OK,
 Team0,checking_workflow_006,0.5018144430649111,0.110532114374383,0.119930664972151,20449.0,2025-12-25T19:41:58+00:00,OK,
+TeamX,week0,,,,,2025-12-28T15:49:40+00:00,ERROR,"Command '['/Users/kline.timothy/PyEnv/tk-dev/bin/python', '-m', 'jupyter', 'nbconvert', '--to', 'notebook', '--execute', '/Users/kline.timothy/repos/AIHC-5010-Winter-2026/Project-1/readmit30/faculty/faculty_workdir/TeamX/Project-1/readmit30/notebooks/Assignment1_Colab_Workflow.ipynb', '--ExecutePrep"
